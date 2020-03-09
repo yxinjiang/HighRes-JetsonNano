@@ -9,3 +9,8 @@ sudo add-apt-repository universe
 sudo add-apt-repository main
 sudo apt-get update
 sudo apt-get install gfortran libopenblas-dev liblapack-dev libatlas-base-dev 
+
+
+
+
+git clone https://github.com/jetsonhacks/jetsonUtilities
