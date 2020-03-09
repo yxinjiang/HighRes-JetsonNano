@@ -6,3 +6,9 @@ sudo add-apt-repository universe
 sudo add-apt-repository main
 sudo apt-get update
 sudo apt-get install gfortran libopenblas-dev liblapack-dev libatlas-base-dev 
+
+
+
+https://blog.hypriot.com/post/verify-kernel-container-compatibility/
+$ wget https://github.com/moby/moby/raw/master/contrib/check-config.sh
+$ chmod +x check-config.sh
